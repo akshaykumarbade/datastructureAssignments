@@ -1,4 +1,4 @@
-package question1;
+package question2;
 
 public class SListNode {
 	int data;
